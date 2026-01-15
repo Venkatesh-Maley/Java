@@ -5,22 +5,22 @@ public class AssignmentOperators{
         int a=4;
         int x;
         
-        x=a;
+        x=a; 
         System.out.println("x Value Using = :"+x);
 
-        x+=a;
+        x+=a;   //x = x + a
         System.out.println("x Value Using += :"+x);
 
-        x-=a;
+        x-=a;   //x = x - a
         System.out.println("x Value Using -= :"+x);
 
-        x*=a;
+        x*=a;   //x = x * a
         System.out.println("x Value Using *= :"+x);
 
-        x/=a;
+        x/=a;   //x = x / a
         System.out.println("x Value Using /= :"+x);
 
-        x%=a;
+        x%=a;   //x = x % a
         System.out.println("x Value Using %= :"+x);
     }
 }

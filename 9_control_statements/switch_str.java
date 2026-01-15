@@ -26,9 +26,6 @@ class control{
             //case 4 Default
             default:
                 System.out.println("No Match");
-            
-
-
         }
     }
 }
