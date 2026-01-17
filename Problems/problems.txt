@@ -1,0 +1,294 @@
+🟢LEVEL 0 — ABSOLUTE PROGRAMMING BASICS
+
+1️⃣ Input / Output
+🔹 Read Integer / Float / Double
+
+1. Write a program to read an integer and print it.
+
+2. Read two integers and print their sum.
+
+3. Read a float value and print it up to 2 decimal places.
+
+4. Read a double and print it.
+
+5. Read three numbers (int, float, double) and print them on separate lines.
+
+🔹 Read Character
+
+6. Read a single character and print it.
+
+7. Read a character and print its ASCII value.
+
+8. Read a character and check whether it is a vowel or consonant.
+
+9. Read a character and check if it is uppercase or lowercase.
+
+🔹 Read String (Single Word)
+
+10. Read a string (single word) and print it.
+
+11. Read a string and print its length.
+
+12. Read a name and print Hello <name>.
+
+🔹 Read String with Spaces
+
+13. Read a full sentence and print it.
+
+14. Read a full name (first name + last name) and print it.
+
+15. Read a sentence and count number of characters.
+
+🔹 Print Output
+
+16. Print “Hello World”.
+
+17. Print your name, age, and city on separate lines.
+
+18. Print a number and a string in the same line.
+
+🔹 Print Formatted Output
+
+19.Print a float value up to 2 decimal places.
+
+20. Print an integer with leading zeros (e.g., 005).
+
+21. Print multiple values using formatted output.
+
+2️⃣ Type Casting
+🔹 int → float
+
+1. Convert an integer to float and print the result.
+
+2. Divide two integers and store result in float.
+
+3. Explain difference between implicit and explicit type casting.
+
+🔹 char → int
+
+4. Convert a character to integer and print ASCII value.
+
+5. Print ASCII value of 'A', 'a', '0'.
+
+🔹 ASCII Value
+
+6. Read a character and print its ASCII value.
+
+7. Print characters from ASCII 65 to 90.
+
+8. Convert lowercase letter to uppercase using ASCII logic.
+
+3️⃣ Swapping Numbers
+🔹 Swap Using Third Variable
+
+1. Swap two numbers using a temporary variable.
+
+2. Swap two integers and print before and after swapping.
+
+🔹 Swap Without Third Variable
+
+3. Swap two numbers without using third variable.
+
+4. Swap using addition and subtraction.
+
+5. Swap using multiplication and division.
+
+6. Swap using XOR operator.
+
+4️⃣ Operators
+🔹 Arithmetic Operators
+
+1. Read two numbers and perform all arithmetic operations.
+
+2. Calculate simple interest.
+
+3. Find area of circle using radius.
+
+4. Find remainder without using % operator.
+
+🔹 Relational Operators
+
+5. Compare two numbers and print which is greater.
+
+6. Check if two numbers are equal.
+
+7. Check whether a number is positive, negative, or zero.
+
+🔹 Logical Operators
+
+8. Check if a number is between 10 and 50.
+
+9. Check whether a character is a vowel using logical operators.
+
+10. Check if a year is a leap year.
+
+🔹 Bitwise Operators (AND, OR, XOR)
+
+11. Perform bitwise AND of two numbers.
+
+12. Perform bitwise OR of two numbers.
+
+13. Perform bitwise XOR of two numbers.
+
+14. Explain difference between logical AND (&&) and bitwise AND (&).
+
+15. Find whether a number is even or odd using bitwise operator.
+
+🔹 Increment / Decrement
+
+16. Demonstrate pre-increment and post-increment.
+
+17. Predict output of code using ++i and i++.
+
+18. Write a program using decrement operator.
+
+🔹 Operator Precedence
+
+19. Predict output of arithmetic expression.
+
+20. Evaluate expression with mixed operators.
+
+21. Explain operator precedence with example.
+
+🔹 Short-Circuit Operators
+
+22. Demonstrate short-circuit behavior using &&.
+
+23. Demonstrate short-circuit behavior using ||.
+
+🟢LEVEL 1 — IF / ELSE / SWITCH (JAVA PRACTICE QUESTIONS)
+🔹 BASIC CONDITIONS
+
+1. Read a number and check whether it is positive, negative, or zero.
+
+2. Read an integer and check whether it is even or odd.
+
+3. Check whether a number is divisible by 3.
+
+4. Check whether a number is divisible by both 5 and 11.
+
+5. Check whether a number is divisible by either 7 or 13.
+
+6. Compare two numbers and print the largest.
+
+7. Compare two numbers and print the smallest.
+
+🔹 LARGEST / SMALLEST LOGIC
+
+8. Find the largest of three numbers using if-else.
+
+9. Find the smallest of three numbers using if-else.
+
+10. Find the middle number among three numbers.
+
+11. Check whether three numbers are equal or not.
+
+🔹 NUMBER LOGIC
+
+12. Check whether a given year is a leap year.
+
+13. Check whether a number is prime (basic logic).
+
+14. Check whether a number is composite.
+
+15. Check whether a number is a perfect number.
+
+16. Check whether a number is a strong number.
+
+17. Check whether a number is an Armstrong number (optional but common).
+
+18. Count number of digits in a number.
+
+19. Find the sum of digits of a number.
+
+🔹 REAL-WORLD LOGIC PROGRAMS
+🧾 Grade / Marks
+
+20. Read marks and print grade:
+
+≥90 → A
+
+≥75 → B
+
+≥60 → C
+
+<60 → Fail
+
+21. Read marks of 5 subjects and calculate percentage and grade.
+
+🗳 Voting
+
+22. Check whether a person is eligible to vote.
+
+💰 Profit / Loss
+
+23. Calculate profit or loss based on cost price and selling price.
+
+24. Calculate profit or loss percentage.
+
+⚡ Electricity Bill
+
+25. Calculate electricity bill:
+
+26. First 100 units → ₹1/unit
+
+27. Next 100 units → ₹2/unit
+
+28. Above 200 units → ₹3/unit
+
+💼 Salary / Bonus
+
+29. Calculate salary after HRA and DA.
+
+30. Calculate bonus based on years of experience.
+
+31. Calculate net salary after PF deduction.
+
+🔹 GEOMETRY-BASED PROBLEMS
+
+32. Check whether three sides form a valid triangle.
+
+33. Check type of triangle:
+
+Equilateral
+
+Isosceles
+
+Scalene
+
+34. Find roots of a quadratic equation.
+
+35. Check whether triangle is right-angled.
+
+🔹 SWITCH-CASE PROGRAMS
+Calculator
+
+36. Create a calculator using switch:
+
++, −, *, /
+
+Day / Month
+
+37. Print day name for given day number (1–7).
+
+38. Print number of days in a month using month number.
+
+39. Print month name using switch.
+
+Menu-Driven Programs
+
+37. Menu-driven program for:
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+
+38. Menu-driven program for:
+
+Check even/odd
+
+Check positive/negative
