@@ -197,14 +197,18 @@
 
 17. Check whether a number is an Armstrong number (optional but common).
 
-18. Count number of digits in a number.
+18. Count number of digits and sum of digits in a number.
 
-19. Find the sum of digits of a number.
+19. Find the factorial of an number.
+
+20. Reverse a number
+
+21. Check palindrome number
 
 🔹 REAL-WORLD LOGIC PROGRAMS
 🧾 Grade / Marks
 
-20. Read marks and print grade:
+22. Read marks and print grade:
 
 ≥90 → A
 
@@ -214,41 +218,35 @@
 
 <60 → Fail
 
-21. Read marks of 5 subjects and calculate percentage and grade.
+23. Read marks of 5 subjects and calculate percentage and grade.
+
+24. Calculator using if-else
 
 🗳 Voting
 
-22. Check whether a person is eligible to vote.
+25. Check whether a person is eligible to vote.
 
 💰 Profit / Loss
 
-23. Calculate profit or loss based on cost price and selling price.
+26. Calculate profit or loss based on cost price and selling price.
 
-24. Calculate profit or loss percentage.
+27. Calculate profit or loss percentage.
 
 ⚡ Electricity Bill
 
-25. Calculate electricity bill:
+28. Calculate electricity bill:
 
-26. First 100 units → ₹1/unit
+ First 100 units → ₹1/unit
 
-27. Next 100 units → ₹2/unit
+ Next 100 units → ₹2/unit
 
-28. Above 200 units → ₹3/unit
-
-💼 Salary / Bonus
-
-29. Calculate salary after HRA and DA.
-
-30. Calculate bonus based on years of experience.
-
-31. Calculate net salary after PF deduction.
+ Above 200 units → ₹3/unit
 
 🔹 GEOMETRY-BASED PROBLEMS
 
-32. Check whether three sides form a valid triangle.
+29. Check whether three sides form a valid triangle.
 
-33. Check type of triangle:
+30. Check type of triangle:
 
 Equilateral
 
@@ -256,39 +254,19 @@ Isosceles
 
 Scalene
 
-34. Find roots of a quadratic equation.
-
-35. Check whether triangle is right-angled.
+31. Check whether triangle is right-angled.
 
 🔹 SWITCH-CASE PROGRAMS
 Calculator
 
-36. Create a calculator using switch:
+32. Create a calculator using switch:
 
 +, −, *, /
 
 Day / Month
+33. Print day name for given day number (1–7).
 
-37. Print day name for given day number (1–7).
+34. Print number of days in a month using month number.
 
-38. Print number of days in a month using month number.
+35. Print month name using switch.
 
-39. Print month name using switch.
-
-Menu-Driven Programs
-
-37. Menu-driven program for:
-
-Addition
-
-Subtraction
-
-Multiplication
-
-Division
-
-38. Menu-driven program for:
-
-Check even/odd
-
-Check positive/negative
