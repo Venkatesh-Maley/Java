@@ -347,3 +347,72 @@ Day / Month
 
 32. Demonstrate usage of break and continue statement.
 
+🟢 LEVEL 3 — PATTERN PRINTING (JAVA PRACTICE QUESTIONS)
+
+🔹 STAR PATTERNS (MOST IMPORTANT)
+Basic Star Patterns
+
+1. Print a right-angled triangle star pattern.
+
+2. Print an inverted right-angled triangle star pattern.
+
+3. Print a left-aligned triangle and  right-aligned triangle star patterns.
+
+Pyramid Patterns
+
+4. Print a star pyramid.
+
+5. Print an inverted star pyramid.
+
+6. Print a diamond star pattern.
+
+7. Print a double pyramid (hourglass shape).
+
+8. Print a butterfly star pattern.
+
+9. Print an hourglass star pattern.
+
+10. Print an X star pattern.
+
+Hollow Star Patterns (VERY IMPORTANT)
+
+11. Print a hollow square, rectangle, right triangle, pyramid, diamond pattern star patterns.
+
+🔹 NUMBER PATTERNS
+Basic Number Patterns
+
+12. Print numbers from 1 to N in triangle form and  repeating number triangle.
+
+13. Print a number pyramid and inverted number pyramid
+
+Advanced Number Patterns
+
+14. Print Floyd’s triangle.
+
+15. Print a palindromic number pyramid.
+
+16. Print a binary number pattern (0s and 1s).
+
+17. Print a pattern with continuous numbers.
+
+🔹 CHARACTER (ALPHABET) PATTERNS
+
+18. Print an alphabet triangle (A, AB, ABC …) and alphabet pyramid.
+
+19. Print a repeating alphabet pattern, inverted alphabet triangle, zig-zag alphabet pattern and character diamond pattern.
+
+⭐ STAR + NUMBER COMBINATION PATTERNS (HIGH LOGIC)
+
+20. Print numbers inside a star border.
+
+21. Print stars between numbers.
+
+22. Print alternate star and number rows.
+
+23. Print a mixed pyramid (stars + numbers).
+
+24. Print a hollow pattern with numbers inside.
+
+25. Print a number pyramid with star outline.
+
+26. Print stars on even rows and numbers on odd rows.
