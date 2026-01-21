@@ -12,4 +12,3 @@ class p27_CountingWordsInAString {
         System.out.println("Number of Words in the Given Array is: " + count);
     }
 }
-

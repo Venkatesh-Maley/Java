@@ -416,3 +416,130 @@ Advanced Number Patterns
 25. Print a number pyramid with star outline.
 
 26. Print stars on even rows and numbers on odd rows.
+
+🟢 LEVEL 4 — ARRAYS (1D)
+ARRAY BASICS (FOUNDATION)
+
+1. Read and print elements of an array.
+
+2. Find the sum and average of elements in an array.
+
+3. Find the maximum and minimum element in an array.
+
+4. Count even and odd elements in an array.
+
+5. Count positive, negative, and zero elements in an array.
+
+🔹 SEARCHING (MUST-KNOW)
+
+6. Perform linear search for a given element.
+
+7. Find the first and last occurrence of an element in an array.
+
+8. Count the number of occurrences of a given element.
+
+🔹 ARRAY REARRANGEMENT (VERY IMPORTANT)
+
+9. Reverse an array.
+
+10. Rotate an array left by K positions.
+
+11. Move all zeros to the end of the array.
+
+12. Segregate even and odd numbers in an array.
+
+🔹 LOGIC-BASED ARRAY PROBLEMS (INTERVIEW CORE)
+
+13. Check whether an array is sorted or not.
+
+14. Find the second largest element in an array.
+
+15. Find the missing number in an array of 1 to N.
+
+16. Find duplicate elements in an array.
+
+17. Remove duplicate elements from an array (basic logic).
+
+🔹 SUM / MULTI-ARRAY (HIGH WEIGHTAGE)
+
+18. Find a pair with a given sum (Two Sum – basic logic).
+
+LEVEL 5 — STRINGS (CORE INTERVIEW SET)
+
+🔹 STRING BASICS (FOUNDATION)
+
+1. Find the length of a string without using length().
+
+2. Copy one string into another without using built-in copy methods.
+
+3. Compare two strings without using equals().
+
+4. Reverse a string using a loop.
+
+5. Reverse a string word by word.
+
+🔹 CHARACTER-LEVEL LOGIC (VERY IMPORTANT)
+
+6. Count the number of vowels and consonants in a string.
+
+7. Count digits, spaces, and special characters in a string.
+
+8. Find the frequency of each character in a string.
+
+9. Remove all spaces from a string.
+
+10. Toggle the case of each character in a string.
+
+🔹 STRING LOGIC (INTERVIEW FAVORITES)
+
+11. Check whether a string is a palindrome.
+
+12. Check whether two strings are anagrams.
+
+13. Check whether a string is a pangram.
+
+14. Find the first non-repeating character in a string.
+
+15. Remove duplicate characters from a string.
+
+🔹 SUBSTRING & WORD PROBLEMS (HIGH WEIGHTAGE)
+
+16. Check whether a substring exists in a string.
+
+17. Generate all substrings of a string.
+
+18. Reverse the words in a sentence.
+
+19. Find the longest word in a sentence.
+
+20. Find the frequency of each word in a sentence.
+
+🟢 LEVEL 5 — 2D ARRAYS (MATRIX)
+
+1️. Read and print a matrix
+
+2️. Matrix addition of two matrices
+
+3️. Find the transpose of a matrix
+
+4️. Print a matrix in spiral order
+
+🟢 LEVEL 6 — SORTINGS AND SEARCHING
+
+Basic / Easy (must-know)
+
+1. Bubble Sort
+
+2. Selection Sort
+
+3. Insertion Sort
+
+4. Merge Sort
+
+5. Quick Sort
+
+Basic
+
+1. Linear Search
+
+2. Binary Search
